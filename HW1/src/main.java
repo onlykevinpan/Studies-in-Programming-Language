@@ -1,3 +1,6 @@
+// project:Happy Cow
+// date 2016/09/23
+//author: 610577103 Pan
 public class main {
 	public static void main(String []args){
 		SignatureForTeacher teacher = new SignatureForTeacher();
